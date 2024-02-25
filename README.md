@@ -1,4 +1,4 @@
-C# Age Counting program to perform a GET request on the Json URL
+C# .Net Age Counting program to perform a GET request on the Json URL
 
 In the C# program to perform a GET request on the route https://coderbyte.com/api/challenges/json/age-counting which contains a data key and the value is a string which contains items in the format: key=STRING, age=INTEGER. 
 
@@ -13,7 +13,7 @@ Example Output:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Json URL'sinden GET isteği gerçekleştirmek için C# Yaş Sayma programı
+Json URL'sinden GET isteği gerçekleştirmek için C# .Net Yaş Sayma programı
 
 C# programında https://coderbyte.com/api/challenges/json/age-counting yolunda bir GET isteği gerçekleştirmek.Bu istek bir veri anahtarı içerir ve değer şu biçimdeki öğeleri içeren bir dizedir: key=STRING , age=INTEGER.
 
